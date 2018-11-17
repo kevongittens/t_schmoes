@@ -25,7 +25,7 @@ SECRET_KEY = 'r@ve55cp(hrq^7s%d^*kpx9&@bc+spey6t-+0_gdd!j=$-aa-4'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = '*.codenvy.io'
 
 
 # Application definition
