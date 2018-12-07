@@ -1,1 +1,1 @@
-web: python subfolder/manage.py runserver 0.0.0.0:$PORT --log-file -
+web: python tschmoes/manage.py runserver 0.0.0.0:$PORT --log-file -
