@@ -10,7 +10,6 @@ pluggy==0.6.0
 pycodestyle==2.4.0
 pydocstyle==2.1.1
 pyflakes==2.0.0
-python-language-server==3.6.7
 pytz==2018.7
 rope==0.10.7
 six==1.11.0
